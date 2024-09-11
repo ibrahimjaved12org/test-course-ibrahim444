@@ -1,0 +1,33 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test-course-ibrahim444"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-course-ibrahim444"
+  },
+  "course_title": "test-course-ibrahim444",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "**test-course-ibrahim444**\n\n***publish*****Publish**",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "test-course-ibrahim444",
+  "learning_resource_types": [],
+  "site_uid": "71054c48-027d-411e-b070-5b8876e0769f",
+  "site_short_id": "test-course-ibrahim444"
+}
